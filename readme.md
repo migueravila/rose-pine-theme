@@ -90,6 +90,7 @@ The community is encouraged to port Rosé Pine to their favourite apps 🌸
 - [Base16](https://github.com/edunfelt/base16-rose-pine-scheme) by [edunfelt](https://github.com/edunfelt)
 - [BetterDiscord](https://github.com/rose-pine/betterdiscord)
 - [Cmus](https://github.com/Iorvethe/cmus) by [Iorvethe](https://github.com/Iorvethe)
+- [Flowetch](https://github.com/migueravila/Flowetch) by [migueravila](https://github.com/migueravila)
 - [Discord RPC Maker](https://github.com/rose-pine/discordrpcmaker)
 - [Razer-CLI](https://github.com/rose-pine/razer-cli)
 - [Wallpapers](https://github.com/rose-pine/wallpapers)
